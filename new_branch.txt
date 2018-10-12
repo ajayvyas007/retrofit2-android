@@ -1,6 +1,9 @@
 Second Branch
 <<<<<<< Updated upstream
+<<<<<<< HEAD
 <<<<<<< Updated upstream
+=======
+>>>>>>> 2c248d1... Some files
 Vyas Gali
 Deeg.
 Bharatput
@@ -9,5 +12,8 @@ Bharatput
 */
 =======
 >>>>>>> Stashed changes
+<<<<<<< HEAD
 =======
 >>>>>>> Stashed changes
+=======
+>>>>>>> 2c248d1... Some files
