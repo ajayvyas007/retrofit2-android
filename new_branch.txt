@@ -1,19 +1,15 @@
-Second Branch
-<<<<<<< Updated upstream
-<<<<<<< HEAD
-<<<<<<< Updated upstream
-=======
->>>>>>> 2c248d1... Some files
+
+Ufhfh
+Ajayb Vyas
+Vyas guali
+
+
+
+//Secound merg.
+
 Vyas Gali
 Deeg.
 Bharatput
 /**
 * File Changes
 */
-=======
->>>>>>> Stashed changes
-<<<<<<< HEAD
-=======
->>>>>>> Stashed changes
-=======
->>>>>>> 2c248d1... Some files
